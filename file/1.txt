@@ -1,0 +1,14 @@
+
+
+
+#include "DataCompress.h"
+
+int main(int argc, char* argv[])
+{
+    (void)argc;
+    (void)
+
+    TestCompress("1.txt");
+    TestDeCompress("1.txt.hcp");
+    return 0;
+
