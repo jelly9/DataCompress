@@ -2,7 +2,7 @@
 DataCompress: DataCompress.cpp
 	g++ -o $@ $^
 
-.PHONY:cl
+.PHONY:clean
 
-cl:
+clean:
 	rm DataCompress

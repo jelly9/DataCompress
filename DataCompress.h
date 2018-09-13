@@ -7,7 +7,7 @@
 #include <algorithm>
 #include <string>
 
-#include "/home/jelly/Code/STL/HuffmanTree.h"
+#include "/home/ubuntu/code/stl/HuffmanTree.h"
 
 #define CHARSIZE 256
 #define BUFFSIZE 1024
